@@ -1,0 +1,357 @@
+=== SOAL 1 ===
+Bacalah teks berikut!
+Hutan mangrove memiliki peran penting bagi lingkungan pesisir. Akar mangrove mampu menahan lumpur dan mengurangi abrasi. Selain itu, kawasan mangrove menjadi tempat hidup berbagai jenis ikan, kepiting, dan burung.
+
+Arti istilah abrasi dalam teks tersebut adalah ....
+A. penanaman kembali hutan
+B. pengikisan tanah oleh air atau gelombang
+C. pencemaran lingkungan pesisir
+D. perpindahan hewan dari habitatnya
+KUNCI: B
+BOBOT: 3.43
+
+=== SOAL 2 ===
+Bacalah kalimat berikut!
+Dokter menggunakan stetoskop untuk mendengarkan suara jantung pasien.
+
+Tentukan kategori istilah stetoskop!
+A. Istilah “stetoskop” merupakan istilah khusus dalam bidang kesehatan.
+KUNCI: [object Object]
+BOBOT: 3.33
+
+=== SOAL 3 ===
+Bacalah teks berikut!
+Pagi itu, Raka berjalan menyusuri kebun milik kakeknya. Udara terasa sejuk. Embun masih menempel pada daun-daun. Dari kejauhan terdengar suara burung bersahutan.
+
+Latar suasana dalam kutipan tersebut adalah ....
+A. menegangkan
+B. menyedihkan
+C. sejuk dan damai
+D. ramai dan berisik
+KUNCI: C
+BOBOT: 3.33
+
+=== SOAL 4 ===
+Bacalah teks berikut!
+Setiap Sabtu pagi, warga Desa Sukamaju melakukan kerja bakti. Mereka membersihkan selokan, memungut sampah, dan merapikan taman desa. Kegiatan tersebut dilakukan agar lingkungan tetap bersih dan nyaman.
+
+Informasi yang sesuai dengan teks adalah ....
+Pilih semua jawaban yang benar!
+A. Kerja bakti dilakukan setiap Sabtu pagi.
+B. Warga membersihkan selokan.
+C. Kerja bakti dilakukan setiap hari.
+D. Warga merapikan taman desa.
+E. Tujuan kegiatan adalah membuat lingkungan nyaman.
+KUNCI: 0,1,3,4
+BOBOT: 3.33
+
+=== SOAL 5 ===
+Pasangkan istilah dengan maknanya!
+Kolom A
+Kolom B
+A. 
+B. 
+C. 
+D. 
+E. 
+KUNCI: 0,1,2,3,4
+BOBOT: 3.33
+
+=== SOAL 6 ===
+Bacalah paragraf berikut!
+Membaca buku memberikan banyak manfaat bagi siswa. Dengan membaca, siswa dapat memperoleh informasi baru, memperluas kosakata, dan meningkatkan kemampuan memahami suatu persoalan.
+
+Ide pokok paragraf tersebut adalah ....
+A. siswa harus membeli banyak buku
+B. membaca buku memberikan banyak manfaat
+C. kosakata siswa dapat bertambah melalui membaca
+D. membaca hanya bermanfaat untuk memperoleh informasi
+KUNCI: B
+BOBOT: 3.33
+
+=== SOAL 7 ===
+Perhatikan informasi berikut!
+“Pada pukul 07.00, siswa kelas IV berkumpul di halaman sekolah untuk mengikuti upacara.”
+
+Pernyataan yang sesuai dengan informasi tersebut adalah ....
+A. Waktu kegiatan adalah pukul 07.00.
+B. Siswa kelas IV mengikuti upacara.
+C. Siswa datang lebih awal agar tidak terlambat.
+KUNCI: [object Object],[object Object],[object Object]
+BOBOT: 3.33
+
+=== SOAL 8 ===
+Bacalah teks berikut!
+Dita awalnya merasa takut berbicara di depan kelas. Ia selalu menunduk ketika diminta menyampaikan pendapat. Setelah mengikuti beberapa latihan presentasi, Dita mulai percaya diri. Ia bahkan berani menjadi pembicara dalam kegiatan sekolah.
+
+Perubahan karakter Dita adalah ....
+A. dari percaya diri menjadi pemalu
+B. dari pemalu menjadi percaya diri
+C. dari rajin menjadi malas
+D. dari berani menjadi takut
+KUNCI: B
+BOBOT: 3.33
+
+=== SOAL 9 ===
+Bacalah teks berikut!
+Sampah plastik sulit terurai secara alami. Jika dibuang sembarangan, sampah tersebut dapat menyumbat saluran air dan menyebabkan banjir. Oleh karena itu, masyarakat perlu mengurangi penggunaan plastik sekali pakai.
+
+Tindakan yang sesuai dengan isi teks adalah ....
+Pilih semua jawaban yang benar!
+A. Mengurangi penggunaan plastik sekali pakai.
+B. Membuang plastik ke sungai.
+C. Menggunakan tas belanja yang dapat digunakan kembali.
+D. Membakar semua sampah plastik sembarangan.
+E. Menjaga saluran air agar tidak tersumbat sampah.
+KUNCI: 0,2,4
+BOBOT: 3.33
+
+=== SOAL 10 ===
+Bacalah kalimat berikut!
+Walaupun mendapat banyak kesulitan, Sinta tetap belajar dengan tekun. Ia percaya bahwa berakit-rakit ke hulu, berenang-renang ke tepian.
+
+Makna ungkapan tersebut adalah ....
+A. seseorang harus sering bepergian
+B. kesenangan harus didahulukan daripada kesulitan
+C. bersusah payah dahulu, kemudian mendapatkan kesenangan
+D. seseorang harus hidup jauh dari keluarga
+KUNCI: C
+BOBOT: 3.33
+
+=== SOAL 11 ===
+Pasangkan unsur teks dengan contohnya!
+Kolom A
+Kolom B
+A. 
+B. 
+C. 
+D. 
+E. 
+KUNCI: 0,1,2,3,4
+BOBOT: 3.33
+
+=== SOAL 12 ===
+Bacalah teks berikut!
+Di sekolah, siswa diajarkan untuk membawa botol minum sendiri. Kebiasaan tersebut dapat mengurangi penggunaan botol plastik sekali pakai. Selain menjaga lingkungan, membawa botol minum juga membuat siswa lebih mudah memenuhi kebutuhan air selama berada di sekolah.
+
+Kesimpulan yang tepat adalah ....
+A. botol plastik harus digunakan setiap hari
+B. membawa botol minum sendiri memiliki manfaat bagi siswa dan lingkungan
+C. siswa hanya membutuhkan air ketika berada di sekolah
+D. sekolah melarang siswa membeli minuman
+KUNCI: B
+BOBOT: 3.33
+
+=== SOAL 13 ===
+Perhatikan kalimat berikut!
+“Pemerintah melakukan reboisasi di kawasan hutan yang gundul.”
+
+Tentukan makna istilah berdasarkan konteksnya!
+A. Reboisasi berarti penanaman kembali hutan yang gundul.
+B. Reboisasi berarti penebangan pohon secara besar-besaran.
+C. Istilah reboisasi berkaitan dengan bidang lingkungan.
+KUNCI: [object Object],[object Object],[object Object]
+BOBOT: 3.33
+
+=== SOAL 14 ===
+Bacalah paragraf berikut!
+Air sangat penting bagi kehidupan manusia. Tubuh membutuhkan air untuk membantu mengatur suhu dan menjaga fungsi organ. Oleh sebab itu, manusia perlu mencukupi kebutuhan air setiap hari.
+
+Kalimat yang merupakan gagasan pendukung adalah ....
+A. Air sangat penting bagi kehidupan manusia.
+B. Tubuh membutuhkan air untuk membantu mengatur suhu.
+C. Manusia membutuhkan makanan setiap hari.
+D. Semua orang harus bekerja setiap hari.
+KUNCI: B
+BOBOT: 3.33
+
+=== SOAL 15 ===
+Bacalah teks berikut!
+Perpustakaan sekolah kini lebih nyaman. Ruangan tersebut dilengkapi meja baca, pencahayaan yang cukup, serta koleksi buku yang lebih beragam. Kondisi itu membuat siswa semakin tertarik membaca.
+
+Pernyataan yang merupakan gagasan pendukung adalah ....
+Pilih semua jawaban yang benar!
+A. Perpustakaan dilengkapi meja baca.
+B. Pencahayaan perpustakaan cukup.
+C. Koleksi buku lebih beragam.
+D. Siswa tidak suka membaca.
+E. Perpustakaan menjadi tempat yang tidak nyaman.
+KUNCI: 0,1,2
+BOBOT: 3.33
+
+=== SOAL 16 ===
+Bacalah teks berikut!
+Dahulu, sungai di dekat desa sangat jernih. Namun, setelah banyak warga membuang sampah ke sungai, air menjadi keruh dan berbau. Ikan-ikan juga semakin sulit ditemukan.
+
+Perubahan yang terjadi pada objek dalam teks adalah ....
+A. sungai menjadi semakin jernih
+B. sungai berubah menjadi keruh dan tercemar
+C. jumlah ikan semakin banyak
+D. warga semakin rajin membersihkan sungai
+KUNCI: B
+BOBOT: 3.33
+
+=== SOAL 17 ===
+Perhatikan pernyataan berikut berdasarkan teks pada Soal 16.
+A. Sungai dahulu sangat jernih.
+B. Air sungai menjadi keruh dan berbau.
+C. Pembuangan sampah menyebabkan kualitas sungai menurun.
+KUNCI: [object Object],[object Object],[object Object]
+BOBOT: 3.33
+
+=== SOAL 18 ===
+Pasangkan istilah berikut dengan bidang penggunaannya!
+Istilah
+Bidang
+A. 
+B. 
+C. 
+D. 
+E. 
+KUNCI: 0,1,2,3,4
+BOBOT: 3.33
+
+=== SOAL 19 ===
+Bacalah situasi berikut!
+Lina selalu mematikan lampu dan kipas ketika meninggalkan ruangan. Ia juga mencabut pengisi daya yang tidak digunakan.
+
+Perilaku Lina menunjukkan ....
+A. pemborosan energi
+B. kepedulian terhadap penggunaan energi
+C. ketidakpedulian terhadap lingkungan
+D. kebiasaan menggunakan listrik secara berlebihan
+KUNCI: B
+BOBOT: 3.33
+
+=== SOAL 20 ===
+Bacalah teks berikut!
+Menanam pohon di lingkungan sekolah memberikan banyak manfaat. Pohon dapat membuat udara lebih sejuk, mengurangi debu, dan memperindah lingkungan sekolah. Kegiatan menanam pohon juga dapat menumbuhkan kepedulian siswa terhadap lingkungan.
+
+Manfaat menanam pohon berdasarkan teks adalah ....
+Pilih semua jawaban yang benar!
+A. membuat udara lebih sejuk
+B. mengurangi debu
+C. memperindah lingkungan
+D. meningkatkan jumlah sampah
+E. menumbuhkan kepedulian siswa
+KUNCI: 0,1,2,4
+BOBOT: 3.33
+
+=== SOAL 21 ===
+Saat pertama kali mengikuti lomba pidato, Bima merasa sangat gugup. Tangannya gemetar dan suaranya terdengar pelan. Setelah berlatih setiap hari, ia mampu tampil dengan tenang dan percaya diri.
+
+Perubahan sikap Bima adalah ....
+A. dari tenang menjadi gugup
+B. dari percaya diri menjadi takut
+C. dari gugup menjadi percaya diri
+D. dari rajin menjadi malas
+KUNCI: C
+BOBOT: 3.33
+
+=== SOAL 22 ===
+Perhatikan kalimat berikut!
+“Setelah mendengar berita itu, hati Rina berbunga-bunga.”
+
+Makna ungkapan tersebut adalah ....
+A. Rina merasa sangat gembira.
+B. Rina sedang memegang bunga.
+C. Ungkapan tersebut menunjukkan perasaan bahagia.
+KUNCI: [object Object],[object Object],[object Object]
+BOBOT: 3.33
+
+=== SOAL 23 ===
+Bacalah teks berikut!
+Sebuah artikel menjelaskan bahwa olahraga teratur dapat membantu menjaga kebugaran tubuh. Informasi tersebut sesuai dengan kebiasaan sehari-hari karena seseorang dapat melakukan olahraga ringan seperti berjalan kaki atau bersepeda.
+
+Relevansi isi teks dengan kehidupan sehari-hari adalah ....
+A. olahraga hanya dapat dilakukan oleh atlet
+B. olahraga dapat diterapkan melalui kegiatan sederhana
+C. olahraga harus dilakukan di pusat kebugaran
+D. berjalan kaki tidak termasuk kegiatan olahraga
+KUNCI: B
+BOBOT: 3.33
+
+=== SOAL 24 ===
+Pasangkan jenis informasi dengan contohnya!
+Jenis
+Contoh
+A. 
+B. 
+C. 
+D. 
+E. 
+KUNCI: 0,1,2,3,4
+BOBOT: 3.33
+
+=== SOAL 25 ===
+Perhatikan paragraf berikut!
+Sampah organik seperti daun dan sisa makanan dapat diolah menjadi kompos. Proses tersebut dapat dilakukan dengan memanfaatkan tempat pengomposan sederhana. Kompos yang dihasilkan dapat digunakan sebagai pupuk tanaman.
+
+Judul yang paling tepat untuk paragraf tersebut adalah ....
+A. Bahaya Sampah Plastik
+B. Cara Membuat Tempat Sampah
+C. Pemanfaatan Sampah Organik Menjadi Kompos
+D. Jenis-Jenis Tanaman di Sekolah
+KUNCI: C
+BOBOT: 3.33
+
+=== SOAL 26 ===
+Bacalah teks berikut!
+Penggunaan bahasa dalam sebuah pengumuman harus jelas dan efektif. Kalimat yang terlalu panjang dapat membuat pembaca kesulitan memahami informasi. Oleh karena itu, pengumuman sebaiknya menggunakan kalimat singkat, jelas, dan langsung pada tujuan.
+
+Ciri bahasa pengumuman yang efektif berdasarkan teks adalah ....
+Pilih semua jawaban yang benar!
+A. menggunakan kalimat yang jelas
+B. menggunakan kalimat yang singkat
+C. langsung pada tujuan
+D. menggunakan kalimat yang sangat panjang
+E. menggunakan bahasa yang sulit dipahami
+KUNCI: 0,1,2
+BOBOT: 3.33
+
+=== SOAL 27 ===
+Perhatikan kalimat berikut!
+“Para siswa-siswa diwajibkan untuk hadir tepat waktu.”
+
+Perbaikan kalimat tersebut agar lebih efektif adalah ....
+A. Para siswa-siswa diwajibkan hadir tepat waktu.
+B. Siswa diwajibkan untuk hadir tepat waktu.
+C. Para siswa diwajibkan untuk hadir tepat pada waktunya.
+D. Para siswa-siswa diwajibkan untuk hadir pada waktu yang tepat.
+KUNCI: B
+BOBOT: 3.33
+
+=== SOAL 28 ===
+Sebuah artikel menyebutkan bahwa membaca selama 20 menit setiap hari dapat membantu meningkatkan kebiasaan membaca.
+
+Tentukan penilaian terhadap informasi tersebut!
+A. Informasi sebaiknya diperiksa berdasarkan sumber yang dapat dipercaya.
+B. Semua informasi dalam internet pasti benar.
+C. Sumber resmi dapat digunakan untuk memeriksa keakuratan informasi.
+KUNCI: [object Object],[object Object],[object Object]
+BOBOT: 3.33
+
+=== SOAL 29 ===
+Pasangkan situasi dengan respons yang paling sesuai!
+Situasi
+Respons
+A. 
+B. 
+C. 
+D. 
+E. 
+KUNCI: 0,1,2,3,4
+BOBOT: 3.33
+
+=== SOAL 30 ===
+Bacalah kutipan berikut!
+Rani menemukan dompet di halaman sekolah. Di dalamnya terdapat sejumlah uang dan kartu identitas. Meskipun tidak ada seorang pun yang melihat, Rani menyerahkan dompet tersebut kepada guru agar dapat dikembalikan kepada pemiliknya.
+
+Nilai yang dapat diteladani dari tokoh Rani adalah ....
+A. keberanian mengambil barang orang lain
+B. kejujuran dan tanggung jawab
+C. keberanian menyimpan barang temuan
+D. kepandaian menyembunyikan sesuatu
+KUNCI: B
+BOBOT: 3.33
+
