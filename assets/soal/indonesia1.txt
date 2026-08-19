@@ -1,0 +1,130 @@
+=== SOAL 1 ===
+Perhatikan model timbangan berikut. Timbangan seimbang menunjukkan bahwa dua kotak x memiliki massa yang sama dengan dua beban bernilai 6. Nilai x adalah ....
+A. 3
+B. 6
+C. 8
+D. 12
+KUNCI: A
+BOBOT: 6.76
+
+=== SOAL 2 ===
+Perhatikan pita pecahan berikut. Pita dibagi menjadi 8 bagian sama besar dan 3 bagian diarsir. Pecahan yang menunjukkan bagian diarsir adalah ....
+A. 3/5
+B. 3/8
+C. 5/8
+D. 8/3
+KUNCI: B
+BOBOT: 6.66
+
+=== SOAL 3 ===
+Sebuah batang cokelat dibagi menjadi 12 bagian sama besar. Empat bagian diberikan kepada Raka. Pecahan bagian cokelat yang diberikan kepada Raka adalah ....
+A. 1/4
+B. 1/3
+C. 2/3
+D. 3/4
+KUNCI: A
+BOBOT: 6.66
+
+=== SOAL 4 ===
+Perhatikan persegi panjang berikut. Jika panjangnya x + 4 cm dan lebarnya x cm, bentuk aljabar untuk keliling persegi panjang tersebut adalah ....
+A. 2x + 4
+B. 2x + 8
+C. 4x + 4
+D. 4x + 8
+KUNCI: D
+BOBOT: 6.66
+
+=== SOAL 5 ===
+Perhatikan gambar kelompok siswa. Jika 1/3 dari seluruh siswa mengikuti kegiatan matematika, banyak siswa yang mengikuti kegiatan tersebut adalah ....
+A. 3
+B. 4
+C. 6
+D. 8
+KUNCI: B
+BOBOT: 6.66
+
+=== SOAL 6 ===
+Perhatikan dua pita pecahan berikut. Pilih semua pernyataan yang benar tentang pecahan yang ditampilkan.
+A. 3/5 lebih besar daripada 2/3.
+B. 2/3 lebih besar daripada 3/5.
+C. 3/5 = 0,6.
+D. 2/3 = 0,75.
+E. Selisih kedua pecahan adalah 1/15.
+KUNCI: 1,2,4
+BOBOT: 6.66
+
+=== SOAL 7 ===
+Perhatikan pola bilangan pada gambar. Pilih semua bentuk aljabar yang dapat digunakan untuk menentukan suku ke-n dari pola tersebut.
+A. 3n
+B. n + 3
+C. 3(n - 1) + 3
+D. 2n + 1
+E. 6 + 3(n - 2)
+KUNCI: 0,2,4
+BOBOT: 6.66
+
+=== SOAL 8 ===
+Perhatikan kotak berpetak berikut. Pilih semua pernyataan yang benar berdasarkan bagian yang diarsir.
+A. Bagian yang diarsir adalah 12/30.
+B. Bagian yang diarsir dapat disederhanakan menjadi 2/5.
+C. Bagian yang tidak diarsir adalah 3/5.
+D. Bagian yang diarsir lebih besar daripada bagian yang tidak diarsir.
+E. Bagian yang diarsir sama dengan 40%.
+KUNCI: 0,1,2,4
+BOBOT: 6.66
+
+=== SOAL 9 ===
+Perhatikan kartu aljabar berikut. Jika kedua kartu menunjukkan jumlah yang sama, nilai x yang memenuhi adalah 5. Tentukan benar atau salah setiap pernyataan berikut.
+A. Nilai x adalah 5.
+B. Nilai 2x adalah 12.
+C. Nilai 2x + 0 sama dengan 10.
+D. Jika x ditambah 3, hasilnya 9.
+E. Nilai x lebih besar daripada 6.
+KUNCI: [object Object],[object Object],[object Object],[object Object],[object Object]
+BOBOT: 6.66
+
+=== SOAL 10 ===
+Perhatikan garis bilangan pecahan berikut. Tentukan benar atau salah setiap pernyataan berdasarkan posisi pecahan pada garis bilangan.
+A. 4/8 sama dengan 1/2.
+B. 6/8 lebih kecil daripada 1/2.
+C. 2/8 sama dengan 1/4.
+D. 7/8 lebih kecil daripada 3/4.
+E. 1/8 lebih kecil daripada 2/8.
+KUNCI: [object Object],[object Object],[object Object],[object Object],[object Object]
+BOBOT: 6.66
+
+=== SOAL 11 ===
+Pasangkan bentuk aljabar pada kolom kiri dengan bentuk sederhananya pada kolom kanan.
+A. 
+B. 
+C. 
+D. 
+E. 
+KUNCI: 0,1,2,3,4
+BOBOT: 6.66
+
+=== SOAL 12 ===
+Pasangkan pecahan pada kolom kiri dengan bentuk yang senilai pada kolom kanan.
+A. 
+B. 
+C. 
+D. 
+E. 
+KUNCI: 0,1,2,3,4
+BOBOT: 6.66
+
+=== SOAL 13 ===
+Sebuah bilangan jika ditambah 18 menghasilkan 45. Tuliskan bentuk persamaan aljabar dan tentukan bilangan tersebut.
+KUNCI: [object Object]
+BOBOT: 6.66
+
+=== SOAL 14 ===
+Ibu memiliki 3/4 kg tepung. Sebanyak 1/3 kg digunakan untuk membuat kue. Berapa kilogram tepung yang masih tersisa?
+KUNCI: [object Object]
+BOBOT: 6.66
+
+=== SOAL 15 ===
+Sebuah persegi panjang memiliki panjang (x + 3) cm dan lebar 5 cm. Jika kelilingnya 26 cm, tentukan nilai x.
+KUNCI: [object Object]
+BOBOT: 6.66
+
